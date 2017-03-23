@@ -68,6 +68,7 @@ public class ControladorLogIn implements ActionListener  {
 
     
     //prueba desde github
+    //prueba inversa desde github
     
     //Funcion encargada de verificar el login del jugador.
     //Recibe: Nick y password

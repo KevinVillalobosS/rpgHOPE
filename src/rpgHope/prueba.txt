@@ -1,0 +1,186 @@
+2016/12/13 :: 22 : 21 : 21 = gorenova intenta logearse := Logeo correcto
+2016/12/13 :: 22 : 21 : 38 = gorenova intenta logearse := Logeo incorrecto
+2016/12/13 :: 22 : 21 : 54 = gorenova intenta logearse := Logeo correcto
+2016/12/13 :: 22 : 22 : 20 = gorenova intenta logearse := Logeo correcto
+2016/12/13 :: 22 : 22 : 25 = se intenta comprar un objeto := completado
+2016/12/13 :: 22 : 22 : 42 = gorenova intenta logearse := Logeo correcto
+2016/12/13 :: 22 : 22 : 48 = se intenta comprar un objeto := completado
+2016/12/14 :: 03 : 13 : 33 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 03 : 19 : 40 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 03 : 20 : 20 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 03 : 22 : 06 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 03 : 22 : 41 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 03 : 27 : 26 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 18 : 11 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 19 : 06 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 24 : 37 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 47 : 04 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 48 : 57 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 49 : 46 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 50 : 32 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 51 : 40 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 54 : 35 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 55 : 14 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 55 : 55 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 18 : 58 : 19 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 19 : 21 : 05 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 20 : 25 : 10 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 20 : 29 : 26 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 20 : 29 : 46 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 20 : 30 : 57 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 20 : 33 : 02 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 20 : 34 : 00 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 20 : 36 : 40 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 20 : 57 : 13 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 21 : 31 : 35 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 21 : 38 : 54 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 21 : 39 : 32 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 21 : 49 : 27 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 21 : 51 : 05 = se intenta comprar un objeto := completado
+2016/12/14 :: 21 : 58 : 00 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 21 : 58 : 32 = se intenta comprar un objeto := completado
+2016/12/14 :: 22 : 00 : 32 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 22 : 03 : 55 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 22 : 06 : 43 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 22 : 08 : 28 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 22 : 30 : 43 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 22 : 39 : 43 = holi intenta logearse := Logeo incorrecto
+2016/12/14 :: 22 : 41 : 06 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 22 : 46 : 39 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 22 : 48 : 13 = holi intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 01 : 16 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 03 : 54 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 11 : 50 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 17 : 15 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 17 : 53 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 18 : 55 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 19 : 32 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 47 : 21 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 48 : 01 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 48 : 26 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 50 : 34 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 53 : 14 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 54 : 08 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 55 : 28 = gorenova intenta logearse := Logeo correcto
+2016/12/14 :: 23 : 58 : 42 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 00 : 00 : 03 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 00 : 01 : 34 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 00 : 02 : 46 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 00 : 05 : 00 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 00 : 08 : 01 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 00 : 08 : 58 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 00 : 11 : 12 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 00 : 12 : 17 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 01 : 13 : 27 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 01 : 14 : 45 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 01 : 16 : 44 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 01 : 17 : 53 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 01 : 19 : 28 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 01 : 20 : 07 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 01 : 35 : 27 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 02 : 19 : 50 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 02 : 23 : 12 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 02 : 24 : 20 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 02 : 31 : 37 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 02 : 36 : 16 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 02 : 58 : 38 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 02 : 59 : 46 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 16 : 08 : 29 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 16 : 21 : 00 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 16 : 21 : 56 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 16 : 28 : 18 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 16 : 49 : 12 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 16 : 50 : 30 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 16 : 58 : 13 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 18 : 06 : 26 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 06 : 44 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 07 : 49 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 08 : 02 = se intenta comprar un objeto := completado
+2016/12/15 :: 18 : 08 : 15 = se intenta comprar un objeto := completado
+2016/12/15 :: 18 : 09 : 40 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 12 : 41 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 16 : 54 = gorenova intenta logearse := Logeo incorrecto
+2016/12/15 :: 18 : 20 : 08 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 21 : 28 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 34 : 51 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 35 : 18 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 36 : 18 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 37 : 08 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 18 : 38 : 06 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 20 : 54 : 39 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 21 : 03 : 15 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 21 : 17 : 34 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 21 : 24 : 24 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 21 : 25 : 21 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 21 : 32 : 48 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 21 : 33 : 02 = se intenta comprar un objeto := completado
+2016/12/15 :: 21 : 33 : 25 = se intenta comprar un objeto := completado
+2016/12/15 :: 21 : 36 : 35 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 21 : 36 : 47 = se intenta comprar un objeto := completado
+2016/12/15 :: 21 : 43 : 06 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 21 : 58 : 20 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 05 : 00 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 06 : 25 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 07 : 15 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 09 : 38 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 12 : 02 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 14 : 50 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 22 : 33 : 52 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 35 : 02 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 35 : 49 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 36 : 13 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 45 : 41 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 22 : 59 : 28 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 23 : 11 : 54 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 23 : 14 : 08 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 23 : 14 : 43 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 23 : 15 : 46 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 23 : 13 : 09 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 23 : 43 : 52 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 23 : 46 : 24 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 23 : 51 : 05 = gorenova intenta logearse := Logeo incorrecto
+2016/12/15 :: 23 : 51 : 55 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 23 : 52 : 41 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 23 : 53 : 25 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 23 : 54 : 48 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 23 : 55 : 44 = gorenova intenta logearse := Logeo correcto
+2016/12/15 :: 23 : 56 : 16 =  se Ingresa a vistaRegistro := correcto
+2016/12/15 :: 23 : 57 : 23 =  se Ingresa a vistaRegistro := correcto
+2016/12/16 :: 00 : 13 : 35 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 00 : 13 : 40 = se intenta comprar un objeto := completado
+2016/12/16 :: 00 : 13 : 48 = se intenta comprar un objeto := completado
+2016/12/16 :: 00 : 15 : 34 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 00 : 15 : 38 =  se equipa el objeto 52 := correcto
+2016/12/16 :: 00 : 16 : 48 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 00 : 17 : 18 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 00 : 22 : 13 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 00 : 22 : 40 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 00 : 22 : 59 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 00 : 23 : 20 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 01 : 02 : 17 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 01 : 03 : 59 =  se Ingresa a vistaRegistro := correcto
+2016/12/16 :: 16 : 10 : 40 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 16 : 13 : 38 = gorenova intenta logearse := Logeo incorrecto
+2016/12/16 :: 16 : 27 : 52 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 16 : 29 : 33 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 16 : 42 : 09 =  se Ingresa a vistaRegistro := correcto
+2016/12/16 :: 16 : 42 : 47 = holi intenta logearse := Logeo incorrecto
+2016/12/16 :: 17 : 05 : 19 = holi intenta logearse := Logeo correcto
+2016/12/16 :: 17 : 24 : 01 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 17 : 47 : 15 = " or ""=" intenta logearse := Logeo incorrecto
+2016/12/16 :: 17 : 54 : 22 = se intenta comprar un objeto := completado
+2016/12/16 :: 17 : 55 : 22 = se intenta comprar un objeto := completado
+2016/12/16 :: 17 : 56 : 00 =  se equipa el objeto 48 := correcto
+2016/12/16 :: 17 : 56 : 59 = se intenta comprar un objeto := completado
+2016/12/16 :: 17 : 59 : 00 = se intenta comprar un objeto := completado
+2016/12/16 :: 18 : 09 : 05 =  se Ingresa a vistaRegistro := correcto
+2016/12/16 :: 18 : 22 : 49 = gorenova intenta logearse := Logeo correcto
+2016/12/16 :: 18 : 28 : 06 =  se Ingresa a vistaRegistro := correcto
+2016/12/16 :: 18 : 29 : 07 = se intenta comprar un objeto := completado
+2016/12/16 :: 18 : 31 : 30 =  se equipa el objeto 45 := correcto
+2016/12/17 :: 15 : 37 : 28 = gorenova intenta logearse := Logeo correcto
+2016/12/17 :: 15 : 38 : 40 = gorenova intenta logearse := Logeo correcto
+2016/12/17 :: 15 : 41 : 25 = gorenova intenta logearse := Logeo correcto
+2016/12/17 :: 15 : 43 : 22 = gorenova intenta logearse := Logeo correcto
+2016/12/17 :: 15 : 44 : 24 = gorenova intenta logearse := Logeo correcto
+2016/12/18 :: 20 : 07 : 57 = gorenova intenta logearse := Logeo correcto
